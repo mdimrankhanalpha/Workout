@@ -1,48 +1,77 @@
 # Workout TV
 
-Content lives in `.txt` files. Edit a `.txt` file and reload the site. No need to touch `index.html`, `style.css` or `script.js`.
+Workout TV is a lightweight static workout site. **Content is controlled by the `.txt` files**, so you normally only edit text files when adding or changing exercises.
 
-## How a post works
-A line with only dashes (`-`) starts and ends a post. Everything between two dash lines is one post.
+## Media system
 
-    -
-    Dumbbell Curl
-    Biceps. 3 sets of 10-12 reps.
-    Hold the dumbbells at your sides and curl them up.
-    https://example.com/photo.jpg
-    https://example.com/clip.mp4
-    -
-    Next post
-    -
+Media no longer appears as a **Play video** button.
 
-- The first line is the post title (bold).
-- Other text lines are normal text. Links in text become clickable.
-- A line that is only a photo link (`.jpg .jpeg .png .gif .webp .avif .svg .bmp`) shows a photo. Click it to open it in a pop-up.
-- A line that is only a video link (`.mp4 .webm .ogg .mov .m4v`) shows a Play video button. Click it to play in a pop-up.
-- A line that is only a YouTube link (youtube.com or youtu.be) also shows a Play video button.
-- Several photo or video lines in a row are shown side by side.
-- Files in the same folder work too: `photo.jpg`.
-- A photo or video link must end with the file type (like `.jpg` or `.mp4`) to show as a pop-up. Other links are just clickable links.
+- Direct image links are shown directly inside the post.
+- Direct video links (`.mp4`, `.webm`, `.ogg`, `.mov`, `.m4v`) are shown as a real paused video surface.
+- Videos **never autoplay in the post**. Clicking/tapping the video opens the full viewer and starts playback.
+- YouTube links automatically become a thumbnail preview. Clicking/tapping opens the YouTube player.
+- YouTube `watch`, `youtu.be`, `shorts`, and `embed` links are supported.
+- Public Facebook video/reel/watch links are detected and opened through Facebook's video embed player when clicked.
+- GitHub `.../blob/...` media links are automatically converted to `raw.githubusercontent.com` so direct images/videos can render.
+- Query strings after media URLs are supported, for example `video.mp4?x=123` and `photo.jpg?size=large`.
+- Media loads only when it is actually displayed/opened, keeping the page lightweight.
+
+### Important limitation
+
+A normal Facebook/YouTube page URL is **not itself a direct MP4 file**. The browser cannot turn an arbitrary social-media page into a native `<video>` element. Workout TV therefore uses the official embedded player for those links. If a Facebook video is private, region-restricted, login-required, or has embedding disabled, Facebook may refuse to display it.
+
+## Post format
+
+A line containing only dashes separates posts.
+
+```text
+-
+Dumbbell Curl
+Biceps. 3 sets of 10-12 reps.
+Keep your elbows close to your body.
+https://example.com/photo.jpg
+https://example.com/clip.mp4
+https://www.youtube.com/watch?v=XXXXXXXXXXX
+https://www.facebook.com/...
+-
+Next exercise
+-
+```
+
+The first normal text line becomes the exercise title. Other normal text lines become descriptions.
+
+You can put several media links in one post. Images and videos are displayed together automatically.
 
 ## Files
-- `categories.txt` - list of topics (Arms, Chest, ... Diet)
-- `arms.txt`, `chest.txt`, ..., `diet.txt` - the posts of each topic
 
-## Add a new topic
-1. Create a file such as `yoga.txt` with posts.
-2. Add this to the end of `categories.txt`:
+- `categories.txt` — topics/categories
+- `arms.txt`, `chest.txt`, `back.txt`, `legs.txt`, `abs.txt`, etc. — workout posts
+- `index.html` — page shell
+- `style.css` — lightweight styling
+- `script.js` — media detection, routing and viewer
 
-        ---
-        id: yoga
-        name: Yoga
-        file: yoga.txt
-        description: Yoga posts.
+## Add a category
 
-## Test locally
-Browsers block loading `.txt` files from `file://`. Run `python -m http.server` in this folder and open http://localhost:8000, or use GitHub Pages.
+Create a new file such as `yoga.txt`, then add:
 
-## Deploy to GitHub Pages
-1. Create a GitHub repository and upload all files to the root.
-2. Settings > Pages.
-3. Source: `main` branch, `/ (root)`, then save.
-4. Open the URL GitHub shows after a minute or two.
+```text
+---
+id: yoga
+name: Yoga
+file: yoga.txt
+description: Yoga exercises.
+```
+
+to `categories.txt`.
+
+## Run locally
+
+Browsers normally block `fetch()` for `.txt` files from `file://`. Use a small local server:
+
+```bash
+python -m http.server
+```
+
+Then open `http://localhost:8000`.
+
+GitHub Pages works without changes.
