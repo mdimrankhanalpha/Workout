@@ -1,0 +1,33 @@
+name: Oatmeal with Banana
+type: Breakfast
+difficulty: Easy
+target: Energy
+calories: 350
+protein: 12 g
+carbs: 60 g
+fat: 7 g
+description: A simple, filling breakfast.
+ingredients: 1/2 cup oats, 1 cup milk, 1 banana, 1 tsp honey
+instructions: Cook the oats in milk for 5 minutes. Top with sliced banana and honey.
+tips: Add a spoon of peanut butter for extra protein.
+image: https://placehold.co/640x360/222/f5a524?text=Oatmeal
+---
+name: Grilled Chicken and Rice
+type: Lunch
+difficulty: Easy
+target: Muscle gain
+calories: 550
+protein: 45 g
+carbs: 55 g
+fat: 12 g
+ingredients: 150 g chicken breast, 1 cup cooked rice, broccoli, olive oil
+instructions: Grill the chicken until cooked through. Serve with rice and steamed broccoli.
+---
+name: Greek Yogurt with Berries
+type: Snack
+difficulty: Easy
+target: Protein
+calories: 180
+protein: 15 g
+ingredients: 1 cup Greek yogurt, 1/2 cup berries
+instructions: Mix the yogurt and berries in a bowl.

@@ -52,3 +52,8 @@ id: full-body
 name: Full Body
 file: full-body.txt
 description: Exercises that work the whole body.
+---
+id: diet
+name: Diet
+file: diet.txt
+description: Meals, foods and nutrition.
