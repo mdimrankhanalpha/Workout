@@ -1,31 +1,3 @@
-name: Pull-Up
-type: Strength
-difficulty: Advanced
-target: Lats
-equipment: Pull-up bar
-reps: 5-8
-instructions: Hang from the bar with palms facing away. Pull your chin over the bar, then lower slowly.
----
-name: Bent-Over Row
-type: Strength
-difficulty: Intermediate
-target: Back
-equipment: Dumbbells
-reps: 10
-instructions: Hinge forward at the hips with a flat back. Pull the weights toward your ribs and lower them.
----
-name: Superman
-type: Strength
-difficulty: Beginner
-target: Lower back
-equipment: None
-duration: 30 sec
-instructions: Lie face down. Lift your arms and legs off the floor, hold briefly, then relax.
----
-name: Dumbbell Shrug
-type: Strength
-difficulty: Beginner
-target: Traps
-equipment: Dumbbells
-reps: 12-15
-instructions: Hold the dumbbells at your sides. Lift your shoulders toward your ears, then lower them.
+-
+https://github.com/mdimrankhanalpha/Workout/blob/main/Files/AQPxsn-YVB7CIFeS5Ua6adiqYid9efs-s44PQJeLtIeHewgVVzTZGH-cx4fu2UYnCIQJxQ16f0D7zeeizF5zDGcFxUL55vsJ1PaxGC2jYA.mp4
+-
