@@ -1,4 +1,4 @@
-# Workout TV
+# Workout
 
 A static workout library. The `.txt` files are the content; `script.js` builds the site from them.
 
