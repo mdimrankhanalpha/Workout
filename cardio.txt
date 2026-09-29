@@ -1,0 +1,23 @@
+name: Jumping Jacks
+type: Cardio
+difficulty: Beginner
+target: Full body
+equipment: None
+duration: 1 min
+instructions: Jump your feet apart while raising your arms overhead, then jump back together.
+---
+name: High Knees
+type: Cardio
+difficulty: Intermediate
+target: Legs
+equipment: None
+duration: 30 sec
+instructions: Run in place, lifting your knees to hip height.
+---
+name: Mountain Climbers
+type: Cardio
+difficulty: Intermediate
+target: Core
+equipment: None
+duration: 30 sec
+instructions: From a plank, drive your knees toward your chest one at a time at a quick pace.

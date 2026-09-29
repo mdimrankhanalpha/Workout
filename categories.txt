@@ -1,0 +1,54 @@
+id: arms
+name: Arms
+file: arms.txt
+description: Biceps, triceps and forearms.
+---
+id: chest
+name: Chest
+file: chest.txt
+description: Chest exercises.
+---
+id: back
+name: Back
+file: back.txt
+description: Lats, traps and lower back.
+---
+id: shoulders
+name: Shoulders
+file: shoulders.txt
+description: Shoulders and neck.
+---
+id: legs
+name: Legs
+file: legs.txt
+description: Quads, hamstrings, hips, adductors and abductors.
+---
+id: abs
+name: Abs
+file: abs.txt
+description: Abs, obliques and core.
+---
+id: glutes
+name: Glutes
+file: glutes.txt
+description: Glute exercises.
+---
+id: calves
+name: Calves
+file: calves.txt
+description: Calf exercises.
+---
+id: cardio
+name: Cardio
+file: cardio.txt
+description: Cardio and conditioning.
+---
+id: stretching
+name: Stretching
+file: stretching.txt
+description: Stretching, mobility, warm-up and cool-down.
+---
+id: full-body
+name: Full Body
+file: full-body.txt
+description: Exercises that work the whole body.

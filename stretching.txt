@@ -1,0 +1,23 @@
+name: Hamstring Stretch
+type: Stretching
+difficulty: Beginner
+target: Hamstrings
+equipment: None
+duration: 30 sec each leg
+instructions: Sit with one leg extended. Reach toward your toes until you feel a gentle stretch.
+---
+name: Hip Circles
+type: Warm-up
+difficulty: Beginner
+target: Hips
+equipment: None
+reps: 10 each direction
+instructions: Stand with hands on hips. Move your hips in large slow circles.
+---
+name: Child's Pose
+type: Cool-down
+difficulty: Beginner
+target: Lower back
+equipment: None
+duration: 45 sec
+instructions: Kneel and sit back on your heels. Reach your arms forward and rest your forehead down.

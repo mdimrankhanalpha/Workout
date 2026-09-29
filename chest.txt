@@ -1,0 +1,25 @@
+name: Push-Up
+type: Strength
+difficulty: Beginner
+target: Chest
+equipment: None
+reps: 10-15
+description: A classic bodyweight chest exercise.
+instructions: Place your hands under your shoulders with your body straight. Lower your chest to the floor and push back up.
+---
+name: Dumbbell Bench Press
+type: Strength
+difficulty: Intermediate
+target: Chest
+equipment: Dumbbells, Bench
+sets: 3
+reps: 8-10
+instructions: Lie on a bench holding the dumbbells at chest level. Press them up, then lower with control.
+---
+name: Incline Push-Up
+type: Strength
+difficulty: Beginner
+target: Upper chest
+equipment: Bench
+reps: 10-12
+instructions: Place your hands on a raised surface and perform a push-up.

@@ -1,0 +1,31 @@
+name: Bodyweight Squat
+type: Strength
+difficulty: Beginner
+target: Quads
+equipment: None
+reps: 15
+instructions: Stand with feet shoulder-width apart. Sit your hips back and down, then stand up.
+---
+name: Romanian Deadlift
+type: Strength
+difficulty: Intermediate
+target: Hamstrings
+equipment: Dumbbells
+reps: 10
+instructions: Hold the weights in front of your thighs. Push your hips back with a flat back, then return to standing.
+---
+name: Side-Lying Leg Raise
+type: Strength
+difficulty: Beginner
+target: Abductors
+equipment: None
+reps: 15 each side
+instructions: Lie on your side. Lift your top leg upward, then lower it slowly.
+---
+name: Adductor Squeeze
+type: Strength
+difficulty: Beginner
+target: Adductors
+equipment: Pillow
+reps: 15
+instructions: Lie on your back with knees bent. Squeeze a pillow between your knees and release.

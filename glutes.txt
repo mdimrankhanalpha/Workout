@@ -1,0 +1,23 @@
+name: Glute Bridge
+type: Strength
+difficulty: Beginner
+target: Glutes
+equipment: None
+reps: 15
+instructions: Lie on your back with knees bent. Lift your hips until your body forms a straight line, then lower.
+---
+name: Hip Thrust
+type: Strength
+difficulty: Intermediate
+target: Glutes
+equipment: Bench, Dumbbell
+reps: 10-12
+instructions: Rest your upper back on a bench with a weight on your hips. Drive your hips up, then lower.
+---
+name: Donkey Kick
+type: Strength
+difficulty: Beginner
+target: Glutes
+equipment: None
+reps: 12 each side
+instructions: On hands and knees, kick one heel toward the ceiling, then return.
