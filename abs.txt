@@ -1,23 +1,13 @@
-name: Plank
-type: Core
-difficulty: Beginner
-target: Abs
-equipment: None
-duration: 30-60 sec
-instructions: Support yourself on your forearms and toes. Keep your body in a straight line.
----
-name: Bicycle Crunch
-type: Core
-difficulty: Intermediate
-target: Obliques
-equipment: None
-reps: 20
-instructions: Lie on your back. Bring opposite elbow and knee together, alternating sides.
----
-name: Crunch
-type: Core
-difficulty: Beginner
-target: Abs
-equipment: None
-reps: 15
-instructions: Lie on your back with knees bent. Curl your shoulders off the floor, then lower.
+-
+Plank
+Abs. Hold 30-60 seconds.
+Support yourself on your forearms and toes. Keep your body in a straight line.
+-
+Bicycle Crunch
+Obliques. 20 reps.
+Lie on your back. Bring opposite elbow and knee together, alternating sides.
+-
+Crunch
+Abs. 15 reps.
+Lie on your back with knees bent. Curl your shoulders off the floor, then lower.
+-

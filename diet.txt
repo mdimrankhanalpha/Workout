@@ -1,24 +1,14 @@
-name: Oatmeal with Banana
-type: Breakfast
-difficulty: Beginner
-target: Energy
-equipment: Pot
-description: A simple, filling breakfast. About 350 calories.
-instructions: Cook 1/2 cup oats in 1 cup milk for 5 minutes. Top with sliced banana and a little honey.
-tips: Add a spoon of peanut butter for extra protein.
-image: https://placehold.co/640x360/222/f5a524?text=Oatmeal
----
-name: Grilled Chicken and Rice
-type: Lunch
-difficulty: Beginner
-target: Muscle gain
-equipment: Grill
-description: High-protein meal. About 550 calories and 45 g protein.
-instructions: Grill 150 g chicken breast until cooked through. Serve with 1 cup rice and steamed broccoli.
----
-name: Greek Yogurt with Berries
-type: Snack
-difficulty: Beginner
-target: Protein
-description: Quick snack. About 180 calories and 15 g protein.
-instructions: Mix 1 cup Greek yogurt with 1/2 cup berries.
+-
+Oatmeal with Banana
+Breakfast. About 350 calories.
+Cook 1/2 cup oats in 1 cup milk for 5 minutes. Top with sliced banana and a little honey.
+https://placehold.co/640x360/222/f5a524.png?text=Oatmeal
+-
+Grilled Chicken and Rice
+Lunch. About 550 calories and 45 g protein.
+Grill 150 g chicken breast until cooked through. Serve with 1 cup rice and steamed broccoli.
+-
+Greek Yogurt with Berries
+Snack. About 180 calories and 15 g protein.
+Mix 1 cup Greek yogurt with 1/2 cup berries.
+-

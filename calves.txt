@@ -1,15 +1,9 @@
-name: Standing Calf Raise
-type: Strength
-difficulty: Beginner
-target: Calves
-equipment: None
-reps: 15-20
-instructions: Stand tall. Rise onto your toes, pause, then lower your heels slowly.
----
-name: Seated Calf Raise
-type: Strength
-difficulty: Beginner
-target: Calves
-equipment: Dumbbell
-reps: 15
-instructions: Sit with a weight on your knees. Raise your heels, then lower them.
+-
+Standing Calf Raise
+Calves. 15-20 reps.
+Stand tall. Rise onto your toes, pause, then lower your heels slowly.
+-
+Seated Calf Raise
+Calves. 15 reps.
+Sit with a weight on your knees. Raise your heels, then lower them.
+-

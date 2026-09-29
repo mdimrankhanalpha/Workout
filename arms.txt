@@ -1,31 +1,16 @@
-name: Dumbbell Curl
-type: Strength
-difficulty: Beginner
-target: Biceps
-equipment: Dumbbells
-sets: 3
-reps: 10-12
-rest: 60 sec
-description: A basic biceps exercise.
-instructions: Hold the dumbbells at your sides. Curl the weights upward and slowly lower them.
-tips: Keep your elbows close to your body.
-image: https://placehold.co/640x360/222/f5a524?text=Image+1
-image: https://placehold.co/640x360/222/f5a524?text=Image+2
-video: https://www.w3schools.com/html/mov_bbb.mp4
----
-name: Triceps Dip
-type: Strength
-difficulty: Intermediate
-target: Triceps
-equipment: Bench
-reps: 8-12
-description: A bodyweight triceps exercise.
-instructions: Place your hands on a bench behind you. Lower your body by bending your elbows, then press back up.
----
-name: Wrist Curl
-type: Strength
-difficulty: Beginner
-target: Forearms
-equipment: Dumbbells
-reps: 15
-instructions: Rest your forearms on your thighs, palms up. Curl the weights with your wrists.
+-
+Dumbbell Curl
+Biceps. 3 sets of 10-12 reps.
+Hold the dumbbells at your sides. Curl the weights upward and slowly lower them.
+https://placehold.co/640x360/222/f5a524.png?text=Photo+1
+https://placehold.co/640x360/222/f5a524.png?text=Photo+2
+https://www.w3schools.com/html/mov_bbb.mp4
+-
+Triceps Dip
+Triceps. 8-12 reps.
+Place your hands on a bench behind you. Lower your body by bending your elbows, then press back up.
+-
+Wrist Curl
+Forearms. 15 reps.
+Rest your forearms on your thighs, palms up. Curl the weights with your wrists.
+-

@@ -1,23 +1,13 @@
-name: Overhead Press
-type: Strength
-difficulty: Intermediate
-target: Shoulders
-equipment: Dumbbells
-reps: 8-10
-instructions: Hold the dumbbells at shoulder height. Press them overhead and lower with control.
----
-name: Lateral Raise
-type: Strength
-difficulty: Beginner
-target: Side delts
-equipment: Dumbbells
-reps: 12-15
-instructions: Raise the dumbbells out to your sides to shoulder height, then lower slowly.
----
-name: Neck Tilt
-type: Mobility
-difficulty: Beginner
-target: Neck
-equipment: None
-duration: 20 sec each side
-instructions: Gently tilt your ear toward your shoulder and hold. Repeat on the other side.
+-
+Overhead Press
+Shoulders. 8-10 reps.
+Hold the dumbbells at shoulder height. Press them overhead and lower with control.
+-
+Lateral Raise
+Side delts. 12-15 reps.
+Raise the dumbbells out to your sides to shoulder height, then lower slowly.
+-
+Neck Tilt
+Neck. 20 seconds each side.
+Gently tilt your ear toward your shoulder and hold. Repeat on the other side.
+-

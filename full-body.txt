@@ -1,23 +1,13 @@
-name: Burpee
-type: Cardio
-difficulty: Advanced
-target: Full body
-equipment: None
-reps: 10
-instructions: Squat, jump your feet back to a plank, do a push-up, jump forward, then jump up.
----
-name: Kettlebell Swing
-type: Strength
-difficulty: Intermediate
-target: Full body
-equipment: Kettlebell
-reps: 15
-instructions: Hinge at the hips and swing the kettlebell to chest height by driving your hips forward.
----
-name: Thruster
-type: Strength
-difficulty: Intermediate
-target: Full body
-equipment: Dumbbells
-reps: 10
-instructions: Squat with weights at your shoulders. Stand up and press the weights overhead in one motion.
+-
+Burpee
+Full body. 10 reps.
+Squat, jump your feet back to a plank, do a push-up, jump forward, then jump up.
+-
+Kettlebell Swing
+Full body. 15 reps.
+Hinge at the hips and swing the kettlebell to chest height by driving your hips forward.
+-
+Thruster
+Full body. 10 reps.
+Squat with weights at your shoulders. Stand up and press the weights overhead in one motion.
+-
